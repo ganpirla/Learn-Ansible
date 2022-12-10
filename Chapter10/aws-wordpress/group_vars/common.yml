@@ -1,0 +1,5 @@
+---
+# the common variables
+
+environment_name: "wordpress"
+ec2_region: "eu-west-1"
